@@ -1,5 +1,11 @@
 # Register Form
 
+![1](https://github.com/Sadaf-A/learning-vaadin/assets/119438857/dbc8c6cb-e360-4932-aa26-615ae98ba4ad)
+Before submitting
+
+![2](https://github.com/Sadaf-A/learning-vaadin/assets/119438857/35e0c4ee-dceb-4195-bdb1-1a0f13e74b70)
+After submitting
+
 ## Running the application
 
 The project is a standard Maven project. To run it from the command line,
