@@ -1,14 +1,14 @@
 # Register Form
 
+## Before submitting
 ![1](https://github.com/Sadaf-A/learning-vaadin/assets/119438857/dbc8c6cb-e360-4932-aa26-615ae98ba4ad) 
 <br>
 <br>
-## Before submitting
 
+## After submitting
 ![2](https://github.com/Sadaf-A/learning-vaadin/assets/119438857/35e0c4ee-dceb-4195-bdb1-1a0f13e74b70)
 <br>
 <br>
-## After submitting
 
 ## Running the application
 
